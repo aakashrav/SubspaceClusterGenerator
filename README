@@ -1,0 +1,5 @@
+A Python module for generating several subspace clusters. A subspace cluster is a cluster that is clustered along some dimensions, but unclustered in other dimensions. 
+
+This module is included as part of the MolecularFeatureEngineering test suite, but I decided to also included it separately so that it's easier to find for someone who is interested in creating subspace clusters but possibly couldn't find an open source implementation [in Python].
+
+Code is free for anyone to use under the GNU General Public License.
